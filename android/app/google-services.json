@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31436792369",
+    "firebase_url": "https://claruswayice.firebaseio.com",
+    "project_id": "claruswayice",
+    "storage_bucket": "claruswayice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31436792369:android:2b58cc738542a4e9d4ab10",
+        "android_client_info": {
+          "package_name": "com.introtoredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31436792369-a1r2l4fdlrrdqmhv444klnqavft5fe8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJFSsepbjtAVX_ebu1QbKShkX7hg9MQbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31436792369-a1r2l4fdlrrdqmhv444klnqavft5fe8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
